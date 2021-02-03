@@ -1,11 +1,11 @@
 import React from 'react'
 
-const CardsRedondo = () => {
+const Main = () => {
   return (
     <div className="red">
-      CardRedondo
+      Main
     </div>
   )
 }
 
-export default CardsRedondo
+export default Main

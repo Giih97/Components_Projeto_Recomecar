@@ -1,12 +1,12 @@
 import React from 'react'
 import './styles.css'
 
-const CardQuadrado = () => {
+const Banner = () => {
   return (
     <div className="red">
-      CardQuadrado
+      Sou o Componete Banner
     </div>
   )
 }
 
-export default CardQuadrado
+export default Banner
